@@ -1,0 +1,12 @@
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\bin\Release\net7.0\ModbusTCPServer.deps.json
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\bin\Release\net7.0\ModbusTCPServer.dll
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\bin\Release\net7.0\ModbusTCPServer.pdb
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.csproj.AssemblyReference.cache
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.AssemblyInfoInputs.cache
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.AssemblyInfo.cs
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.dll
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\refint\ModbusTCPServer.dll
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ModbusTCPServer.pdb
+C:\Users\zenit\source\Repos\ModbusTCPServer\ModbusTCPServer\obj\Release\net7.0\ref\ModbusTCPServer.dll
